@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          submodules: recursive
+          submodules: recursive  # 👈 ЭТО КЛЮЧЕВОЙ ПАРАМЕТР! Он скачивает тему PaperMod
 
       - name: Setup Pages
         id: pages
