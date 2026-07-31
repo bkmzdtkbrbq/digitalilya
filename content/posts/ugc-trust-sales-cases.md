@@ -81,20 +81,20 @@ draft = false
 UGC-метрики:
 
 Вовлечение:
-  ❤️ Лайки, комментарии, репосты UGC-постов
-  📊 Engagement rate по UGC vs брендовый контент
+  Лайки, комментарии, репосты UGC-постов
+  Engagement rate по UGC vs брендовый контент
 
 Конверсия:
-  🛒 CR на страницах с UGC vs без
-  🔗 CTR по UGC-ссылкам
+  CR на страницах с UGC vs без
+  CTR по UGC-ссылкам
 
 Доверие:
-  ⭐ Рост рейтинга на маркетплейсах
-  📈 Динамика NPS (Net Promoter Score)
+  Рост рейтинга на маркетплейсах
+  Динамика NPS (Net Promoter Score)
 
 Продажи:
-  💰 Revenue attributed to UGC
-  📦 Снижение возвратов
+  Revenue attributed to UGC
+  Снижение возвратов
 ```
 
 #### Инструменты для измерения
